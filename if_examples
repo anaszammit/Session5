@@ -1,0 +1,7 @@
+#lets create a virtual bartender that serves you if you are of legal age
+
+from random import choice
+drinks = [ "whiskey", "rum", "tequila", "gin", "sake", "wine", "beer", "vodka"]
+mixers = ["fanta", "fanta limon", "redbull", "tonic", "cola", "soda"]
+
+print(
